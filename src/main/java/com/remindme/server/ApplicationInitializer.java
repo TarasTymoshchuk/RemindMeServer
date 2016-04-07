@@ -9,7 +9,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 import javax.servlet.ServletException;
 import javax.servlet.ServletRegistration;
 
-public class AplicationInitializer implements WebApplicationInitializer{
+public class ApplicationInitializer implements WebApplicationInitializer{
     private static final String DISPATCHER = "dispatcher";
 
     public void onStartup(javax.servlet.ServletContext servletContext) throws ServletException {
