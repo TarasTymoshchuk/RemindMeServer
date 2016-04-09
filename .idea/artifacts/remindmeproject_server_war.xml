@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="remindmeproject.server:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="com.me.remind.remindmeproject.server-1.0-SNAPSHOT.war">
+    <root id="archive" name="remindme-server.war">
       <element id="artifact" artifact-name="remindmeproject.server:war exploded" />
     </root>
   </artifact>
